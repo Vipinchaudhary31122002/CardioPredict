@@ -20,7 +20,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Vipinchaudhary31122002/CardioPredict
+git clone https://github.com/yourusername/CardioPredict
 cd CardioPredict
 ```
 
